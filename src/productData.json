@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Cow milk",
+        "src": "../../public/images/Product-1.png",
+        "price": 120,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Curd",
+        "src": "../../public/images/Product-2.png",
+        "price": 95,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Pure cow ghee",
+        "src": "../../public/images/Product-3.png",
+        "price": 550,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Paneer",
+        "src": "../../public/images/Product-4.png",
+        "price": 195,
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Cow milk powder",
+        "src": "../../public/images/Product-5.png",
+        "price": 440,
+        "quantity": 1
+    }
+]

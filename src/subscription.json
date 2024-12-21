@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pure Week Bliss",
+        "type": "Weekly",
+        "products_included": {
+            "milk": "7 liters (1 liter per day)",
+            "paneer": "250g"
+        },
+        "price": 599
+    },
+    {
+        "name": "Milky Way Monthly",
+        "type": "Monthly",
+        "products_included": {
+            "milk": "30 liters (1 liter per day)",
+            "paneer": "1kg (250g per week)"
+        },
+        "price": 2299
+    }
+]
